@@ -11,9 +11,11 @@ https://lcpc2021.github.io/pre_workshop_papers/Qiu_lcpc21.pdf
 https://developer.nvidia.com/cusparse
 
 * PyTorch Sparse Documentation
+* 
 https://pytorch.org/docs/stable/sparse.html
 
 * GNN application of SparseTensor in PyG
+* 
 https://pytorch-geometric.readthedocs.io/en/latest/notes/sparse_tensor.html
 
 # Proposal: 
